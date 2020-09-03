@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sale bracelet</string>
+    <string name="txt_unidad_tipo_moneda_1">COP</string>
+    <string name="txt_unidad_tipo_moneda_2">US</string>
+    <string name="nombre_app">Bracelet\'s store</string>
+    <string name="txt_escoger_material">Choose bracelet\'s material</string>
+    <string name="txt_opcion_material_1">Leather</string>
+    <string name="txt_opcion_material_2">Rope</string>
+    <string name="txt_escoger_dije">Choose pendant\'s type</string>
+    <string name="txt_opcion_dije_1">Hammer</string>
+    <string name="txt_opcion_dije_2">Anchor</string>
+    <string name="txt_escoger_material_dije">Choose pendat\'s material:</string>
+    <string name="txt_opcion_material_dije_1">Gold</string>
+    <string name="txt_opcion_material_dije_2">Pink gold</string>
+    <string name="txt_opcion_material_dije_3">Nickel</string>
+    <string name="txt_opcion_material_dije_4">Silver</string>
+    <string name="txt_valor_total">Total value:</string>
+    <string name="txt_cantidad_manilla">Enter bracelets\'s quantity:</string>
+    <string name="txt_btn_calcular">Calculate total</string>
+    <string name="txt_btn_limpiar">Clear</string>
+    <string name="txt_faltan_datos">This data is missing</string>
+</resources>

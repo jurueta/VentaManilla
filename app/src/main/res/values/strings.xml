@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Venta Manilla</string>
+    <string name="nombre_app">Almacen de Manilla</string>
+    <string name="txt_escoger_material">Escoja el material de la manilla:</string>
+    <string name="txt_opcion_material_1">Cuero</string>
+    <string name="txt_opcion_material_2">Cuerda</string>
+    <string name="txt_escoger_dije">Escoja el tipo del dije:</string>
+    <string name="txt_opcion_dije_1">Martillo</string>
+    <string name="txt_opcion_dije_2">Ancla</string>
+    <string-array name="lista_opcion_dije">
+        <item></item>
+        <item>@string/txt_opcion_dije_1</item>
+        <item>@string/txt_opcion_dije_2</item>
+    </string-array>
+    <string name="txt_escoger_material_dije">Escoja el material del dije:</string>
+    <string name="txt_opcion_material_dije_1">Oro</string>
+    <string name="txt_opcion_material_dije_2">Oro Rosado</string>
+    <string name="txt_opcion_material_dije_3">Niquel</string>
+    <string name="txt_opcion_material_dije_4">Plata</string>
+    <string-array name="lista_material_dije">
+        <item></item>
+        <item>@string/txt_opcion_material_dije_1</item>
+        <item>@string/txt_opcion_material_dije_2</item>
+        <item>@string/txt_opcion_material_dije_3</item>
+        <item>@string/txt_opcion_material_dije_4</item>
+    </string-array>
+    <string name="txt_valor_total">Valor total:</string>
+    <string name="txt_cantidad_manilla">Ingrese Cantidad de manillas:</string>
+    <string name="txt_btn_calcular">Calcular Total</string>
+    <string name="txt_unidad_tipo_moneda_1">COP</string>
+    <string name="txt_unidad_tipo_moneda_2">US</string>
+    <string name="txt_btn_limpiar">Limpiar</string>
+    <string name="txt_faltan_datos">Falta este campo</string>
+</resources>
